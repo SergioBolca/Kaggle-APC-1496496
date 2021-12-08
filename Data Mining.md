@@ -24,3 +24,5 @@ Per començar a treballar el primer que he fet és un anàlisi de les dades i el
 | Hours-per-week | Hores que fa la persona per setmana | 1 - 99 |
 | Native-country | Lloc de naixement | Categòrica |
 | Income_>50k | Variable objectiu que indica si el salari és > 50k o <= 50k | 0 - 1 |
+
+## Observacions
