@@ -1,3 +1,4 @@
+# Data Mining
 ## Introducció
 La base de dades amb la qual he treballat per a realitzar aquest treball s'anomena 'Income Dataset', de l'usuari Mustafa Fatakdawala, obtinguda de la plataforma Kaggle.
 
