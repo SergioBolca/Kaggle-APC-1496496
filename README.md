@@ -2,7 +2,7 @@
 Aquest github conté el treball realitzat sobre una base de dades de la plataforma Kaggle.
 El directori es trobarà dividit en diferents parts:
 
-1-Anàlisis de les dades (data mining), justificació del tractament d'aquestes, etc
+1-Introducció a la base de dades, anàlisis de les dades (data mining), justificació del tractament d'aquestes, etc
 
 2-Models utilitzats
 
