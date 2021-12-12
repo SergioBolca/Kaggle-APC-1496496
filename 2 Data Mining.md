@@ -231,6 +231,8 @@ El heatmap i pairplot que obtinc ara són:
 Per finalitzar el procés de data mining, realitzo una normalització de les dades, ja que com s'ha pogut apreciar no totes
 tenen el mateix rang. Per tant utilitzo StandardScaler de la llibreria sklearn:
 
+Abans d'això separo les dades del target en els atributs X, Y, X_2 i Y_2:
+
 ```
 X = train_m.values[: , :-1]
 Y = train_m.values[: , -1]
@@ -239,8 +241,9 @@ X_2 = train_m2.values[: , :-1]
 Y_2 = train_m2.values[: , -1]
 ```
 
-
-
-
-
-
+Normalització:
+```
+sc = StandardScaler()
+X_n = sc.fit_transform(X)
+X_n2 = sc.fit_transform(X_2)
+```
