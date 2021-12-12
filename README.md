@@ -12,4 +12,6 @@ El directori es trobarà dividit en diferents parts:
 
 5. Observacions i conclusions
 
-Ademés d'aquests apartats, 
+A més d'aquests apartats, n'hi han tres carpetes adicionals. La carpeta *images* conté totes les imatges que 
+he utilitzat en els diferents apartats. La carpeta *data* conté els database utilitzats obtinguts de la 
+plataforma Kaggle. Per últim, la carpeta *code* conté el codi utilitzat tant en format notebook com en format .py.
