@@ -11,3 +11,5 @@ El directori es trobarà dividit en diferents parts:
 4. Resultats obtinguts
 
 5. Observacions i conclusions
+
+Ademés d'aquests apartats, 
