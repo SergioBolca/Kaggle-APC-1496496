@@ -1,6 +1,6 @@
 # Kaggle-APC-1496496
 Aquest github conté el treball realitzat sobre una base de dades de la plataforma Kaggle.
-El directori es trobarà dividit en diferents parts:
+El directori es troba dividit en diferents parts:
 
 1. Introducció a la base de dades
 
@@ -12,7 +12,7 @@ El directori es trobarà dividit en diferents parts:
 
 5. Observacions i conclusions
 
-A més d'aquests apartats, n'hi han tres carpetes adicionals. La carpeta *images* conté totes les imatges 
-que  he utilitzat en els diferents apartats. La carpeta *data* conté els database utilitzats en format .csv 
-obtinguts de la plataforma Kaggle. Per últim, la carpeta *code* conté el codi utilitzat tant en format 
+A més d'aquests apartats, n'hi ha tres carpetes addicionals. La carpeta *images* conté totes les imatges 
+que  he utilitzat en els diferents apartats. La carpeta *data* conte els database usats en format .csv 
+obtinguts de la plataforma Kaggle. Per últim, la carpeta *code* conté el codi usat, tant en format 
 notebook com en format .py.
