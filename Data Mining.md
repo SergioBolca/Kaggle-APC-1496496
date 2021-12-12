@@ -8,7 +8,7 @@ de classificació, idoni per aplicar aprenentatge computacional.
 Per començar a treballar el primer que he fet és un anàlisi de les dades i els atributs que té la pròpia base de dades:
 
 | Atribut | Descripció | Rang |
-| ---------- | ---------- | ---------- |
+| ---------- | ---------- | :----------: |
 | Age | Edat de la persona | 17 - 90 |
 | Workclass | Tipus d'ofici | Categòrica |
 | Fnlwgt | Salari final | 13.5k - 1.49m |
